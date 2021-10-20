@@ -8,5 +8,5 @@
   
   ##
 <div style="display: flex">
-  <a href="https://behance.net/danmetzker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="25"/></a>
+  <a href="https://behance.net/danmetzker" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30"/></a>
 </div>

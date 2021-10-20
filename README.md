@@ -7,3 +7,6 @@
 </div>
   
   ##
+<div style="display: flex">
+  <a href="https://behance.net/danmetzker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="25"/></a>
+</div>

@@ -1,0 +1,7 @@
+[
+  { "label": "Linha 1", "dado1": 23, "dado2": 50 },
+  { "label": "Linha 2", "dado1": 30, "dado2": 45 },
+  { "label": "Linha 3", "dado1": 27, "dado2": 52 },
+  { "label": "Linha 4", "dado1": 35, "dado2": 47 },
+  { "label": "Linha 5", "dado1": 40, "dado2": 55 }
+]
